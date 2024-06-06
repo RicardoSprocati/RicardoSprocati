@@ -1,14 +1,14 @@
 ## Olá! 👋
 
 ### Habilidades
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSprocati&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSprocati&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/RicardoSprocati)
 
 ### Produtividade
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoSprocati&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoSprocati&show_icons=true&theme=tokyonight)](https://github.com/RicardoSprocati)
 
 ### Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Tarefa-bootstrap-RealRock&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/RicardoSprocati/Projeto-AlKhubz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Tarefa-bootstrap-RealRock&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock)
 
 ### Contato
 
