@@ -8,7 +8,8 @@
 
 ### Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/RicardoSprocati/Projeto-AlKhubz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Tarefa-bootstrap-RealRock&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/RicardoSprocati/Projeto-AlKhubz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Tarefa-bootstrap-RealRock&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=projeto-6-loja-games&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock)
+
 
 ### Contato
 
