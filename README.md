@@ -8,7 +8,7 @@
 
 ### Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/RicardoSprocati/Projeto-AlKhubz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=projeto-6-LojaGames&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Ebac-projeto6-Efood&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Projeto-AlKhubz&theme=tokyonight)](https://github.com/RicardoSprocati/Projeto-AlKhubz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=projeto-6-LojaGames&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=Ebac-projeto6-Efood&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoSprocati&repo=minhas-tarefas-Projeto5&theme=tokyonight)](https://github.com/RicardoSprocati/Tarefa-bootstrap-RealRock)
 
 
 ### Contato
